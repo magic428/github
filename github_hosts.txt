@@ -14,4 +14,7 @@
 151.101.108.133 avatars5.githubusercontent.com
 151.101.108.133 avatars6.githubusercontent.com
 151.101.108.133 avatars7.githubusercontent.com
-151.101.76.133 avatars8.githubusercontent.com# GitHub End
+151.101.108.133 avatars8.githubusercontent.com
+185.199.109.154 github.githubassets.com
+
+# GitHub End
