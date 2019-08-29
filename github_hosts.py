@@ -32,7 +32,7 @@ def main():
         for host in ins:
             ip=get_ip(host.strip())
             with open('github_hosts.txt', 'a') as result:
-                result.write(ip.strip('\n') + " " + host)
+                result.write(ip.strip('\n') + "\t" + host)
 
     f = open('github_hosts.txt','a')
     f.write("\n# GitHub End\n")
